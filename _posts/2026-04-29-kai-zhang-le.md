@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 开张了
 date: 2026-04-29 06:40 +0800
 categories: 杂谈

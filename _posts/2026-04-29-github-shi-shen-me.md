@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: GitHub 是什么——给完全没接触过的人
 date: 2026-04-28 06:45 +0800
 categories: 科普
