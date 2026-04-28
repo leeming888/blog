@@ -12,6 +12,7 @@ url: "https://leeming888.github.io"
 # 构建配置
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+future: true        # 允许显示当前日期的文章
 
 # 插件
 plugins:
