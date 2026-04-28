@@ -1,0 +1,25 @@
+# 博客配置
+title: 小明的博客
+description: 记录技术、生活和想法的地方
+author: 小明
+email: leeming888@gmail.com
+theme: jekyll-theme-cayman
+
+# 基础 URL
+baseurl: "/blog"
+url: "https://leeming888.github.io"
+
+# 构建配置
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
